@@ -1,0 +1,19 @@
+{
+  "name": "arcpg",
+  "version": "0.0.1",
+  "description": "An amigurumi rpg character crochet pattern generator",
+  "main": "index.js",
+  "authors": {
+    "name": "Marina",
+    "email": "marina.dargitz@gmail.com"
+  },
+  "repository": "https://github.com/mdargitz/arcpg.git/arcpg",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
