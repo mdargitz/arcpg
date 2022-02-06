@@ -14,6 +14,9 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "^2.0.0-beta.35"
+  },
+  "dependencies": {
+    "vuex": "^4.0.2"
   }
 }
