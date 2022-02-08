@@ -3,7 +3,7 @@ module.exports = {
     lang: 'en-US',
     title: 'ARCPG',
     description: 'Amigurumi RPG Character Pattern Generator',
-    base: '/<REPO>/',
+    base: '/arcpg/',
 
     // theme and its config
     theme: '@vuepress/theme-default',
